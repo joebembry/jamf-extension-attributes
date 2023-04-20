@@ -1,7 +1,7 @@
 #!/bin/sh
-#####################################################################
-# A script to collect the Bundle Version of Alertus Desktop Client. #
-#####################################################################
+#########################################################################
+# A script to collect the Bundle Version of Sassafras KeyAccess Client. #
+#########################################################################
 
 PLIST="/Library/KeyAccess/KeyAccess.app/Contents/Info.plist"
 KEY="CFBundleShortVersionString"
